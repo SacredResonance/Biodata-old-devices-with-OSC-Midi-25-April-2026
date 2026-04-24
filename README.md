@@ -22,4 +22,6 @@ unsigned int oscOutPort = 8000;           // Max: use [udpreceive 8000]
 WiFiUDP oscUdp;
 
 
+Note the rotuer ... is out side .. 
+
 
